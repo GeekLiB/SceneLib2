@@ -1,0 +1,9 @@
+CMakeLists.txt*
+!CMakeLists.txt
+BUILD/
+build/
+_doc/
+*autosave
+*~
+_doxygen/
+*DS_Store*
